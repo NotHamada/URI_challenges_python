@@ -3,4 +3,4 @@ b = int(input())
 
 soma = a + b
 
-print('X = {}'.format(soma))
+print('SOMA = {}'.format(soma))
